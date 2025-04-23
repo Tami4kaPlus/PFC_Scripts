@@ -1,1 +1,1 @@
-pfc.log("Http success");
+return pfc.log("Http success");
